@@ -1,0 +1,11 @@
+discord.py==1.2.5
+parsedatetime
+python-dateutil
+git+https://github.com/Gorialis/jishaku
+numpy
+objgraph
+psutil
+beautifulsoup4
+requests
+pytz
+uvloop
